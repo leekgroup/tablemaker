@@ -6,6 +6,6 @@ You can build tablemaker from source by following [these instructions](http://cu
 * [OSX Binary](http://figshare.com/articles/Tablemaker_OS_X_Binary/1053136)
 * [Linux Binary](http://figshare.com/articles/Tablemaker_Linux_Binary/1053137)
 
-*Note*: Tablemaker relies on Cufflinks version 2.1.1 (released April 2013) to estimate transcript FPKMs, and these estimates may not match FPKM estimates obtained from Cufflinks 2.2.0 (released March 2014) or 2.2.1 (released May 2014). 
+*Note*: Tablemaker relies on Cufflinks version 2.1.1 (released April 2013) to estimate transcript FPKMs, and these estimates may not match FPKM estimates obtained from Cufflinks 2.2.0 (released March 2014) or 2.2.1 (released May 2014). We are actively working on integrating better with Cufflinks.
 
 Please report any problems as issues on this repository. 
